@@ -1,0 +1,40 @@
+{
+  "name": "dating-app-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for the dating app",
+  "main": "App.js",
+  "scripts": {
+    "start": "echo \"Error: no start script specified for frontend. Please configure for your framework (e.g., 'react-scripts start', 'vue-cli-service serve', 'ng serve')\" && exit 1",
+    "build": "echo \"Error: no build script specified for frontend. Please configure for your framework (e.g., 'react-scripts build', 'vue-cli-service build', 'ng build')\" && exit 1"
+    // Example for Create React App:
+    // "start": "react-scripts start",
+    // "build": "react-scripts build",
+    // "test": "react-scripts test",
+    // "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    // Add your frontend framework and libraries here
+    // "react": "^17.0.2",
+    // "react-dom": "^17.0.2",
+    // "vue": "^3.2.0",
+    // "@angular/core": "~13.0.0"
+  },
+  "devDependencies": {
+    // Add development tools like linters, bundlers etc.
+    // "react-scripts": "5.0.0" // For Create React App
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": { // Example for Create React App
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
